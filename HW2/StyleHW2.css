@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #3d1951;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+}
+
+h2 {
+    font-size: 26px;
+    color: black;
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+p {
+    font-size: 16px;
+}
+.about-text {
+    font-size: 18px;
+    color: black;
+}
+.team-text {
+    font-size: 18px;
+    color: white;
+}
+.schedule-notes {
+    font-size: 14px;
+}
+
+.team-title {
+    font-family: Georgia, serif;
+    font-size: 38px;
+    color: #f2d675;
+}
+
+#about {
+    background-color: white;
+    color: black;
+    margin: 30px auto;
+    padding: 25px;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+.team-life {
+    background-color: #51256b;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+
+th {
+    background-color: #f2d675;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: white;
+}
+
+img {
+    border-radius: 10px;
+}
